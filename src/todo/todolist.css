@@ -1,0 +1,19 @@
+.todo-list {
+    width: 100%;
+    height: 350px;
+    margin-top: 10px;
+    overflow-y: auto;
+}
+
+.todo-list ul {
+    margin: 0;
+    padding: 0;
+}
+
+::-webkit-scrollbar {
+    width: 2px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: lightgrey;
+}

@@ -1,0 +1,18 @@
+.select-all-container {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.8px solid #f0f0f0;
+}
+
+.select-all-label {
+    margin-left: 15px;
+    font-weight: 700;
+}
+
+.multi-delete-btn {
+    border: none;
+    padding: 4px 8px;
+    border-radius: 5px;
+}
